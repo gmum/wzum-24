@@ -5,7 +5,7 @@ Welcome to the 2024 edition of **Selected Machine Learning problems** (Wybrane z
 In the class, you will familiarize yourselves with a variety of ML problems and interesting research directions, some more mainstream than the others.
 
 * Lectures are on Wednesdays, on 2.15 PM, in room 1086.
-* Laboratories take place on Tuesdays, on 14:30, in room 0016. 
+* Laboratories are on Tuesdays, on 2:15 PM, in room 0016. 
 
 Unless it is decided otherwise, the classes will be held in-person.
 
@@ -17,7 +17,11 @@ Unless it is decided otherwise, the classes will be held in-person.
 * 5.03 - Classification uncertainty, model calibration, early exit networks
 * 12.03 - No class
 * 19.03 - Self-Supervised Learning
-* 26.03 - TBA
+* 26.03 - Project consultations - please have ideas for projects by then
+* 2.04 - Easter break (no class)
+* 9.04 - First project presentations - part 1
+* 16.04 - First project presentations - part 2
+* 23.04 - TBA
 
 ### Prerequisites
 
